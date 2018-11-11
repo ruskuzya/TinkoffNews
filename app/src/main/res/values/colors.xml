@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A4A4A</color>
+    <color name="colorPrimaryDark">#434349</color>
+    <color name="colorAccent">#fedb43</color>
+
+    <color name="colorStatusBarLogin">#fedb43</color>
+    <color name="colorTextDefault">#4a4a4a</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorMenuLine">#676568</color>
+</resources>
